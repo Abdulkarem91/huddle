@@ -1,0 +1,56 @@
+body {
+    background-image: url(images/bg-desktop.svg);
+    background-repeat: no-repeat;
+    background-color: #684CB4;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container p {
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.container h1 {
+    color: white;
+   font-size: 40px;
+   margin-left: 30px;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 50px ;
+    margin-left: 30px;
+    background-color:#944ECA;
+    color: white;
+}
+
+.container .left img {
+    margin-top: 100px;
+    margin-left: 30px;
+}
+
+
+.fa-facebook {
+    color: white;
+    font-size: 30px;
+    
+}
+
+.fa-twitter-square {
+    color: white;
+    font-size: 30px;
+    
+}
+
+.fa-instagram {
+    color: white;
+    font-size: 30px;
+}
